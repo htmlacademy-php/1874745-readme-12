@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Игорь Шишов](https://up.htmlacademy.ru/php/12/user/1874745).
-* Наставник: `Юлия Новикова`.
+* Наставник: `Юлия Новикова` https://htmlacademy.ru/profile/id816363 .
 
 ---
 
